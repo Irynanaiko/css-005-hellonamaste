@@ -68,10 +68,11 @@ h3 {
 
 .icon {
     display: inline-block;
-    width: 64px;
-    height: 48px;
+    /* width: 64px; */
+    /* height: 48px; */
     color: #000;
     padding: 40px;
+    font-size: 36px;
 }
 
 h2 {
